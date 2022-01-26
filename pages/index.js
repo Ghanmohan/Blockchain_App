@@ -15,8 +15,8 @@ export default function Home() {
         Connect Wallet 
       </Button>
       <Details>
-        You need to be 
-        <br /> able to run this app.
+        You need to be using
+        <br /> chrome for able to run this app.
       </Details>
     </WalletConnect>
     )}
